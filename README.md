@@ -1,7 +1,7 @@
 # MachineLearning
 This repository contains the final project for the Machine Learning Course at Soft Uni.
-the project is in file `Course_Project.ipynb`
-
+The project is in file `Course_Project.ipynb`
+The Dataset can be downloaded from here https://www.kaggle.com/c/digit-recognizer/download/train.csv
 The following files are the trained models. They can be loaded later in the Jupyter notebook to save the training time:
 * `KNeighborsClassifier-BACKUP.sav` - as the name suggests this is the K-Neighbors Classifier model
 * `LogisticRegression-BACKUP.sav` - Logistic Regression model
